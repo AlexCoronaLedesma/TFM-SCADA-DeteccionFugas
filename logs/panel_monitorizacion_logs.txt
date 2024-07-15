@@ -1,0 +1,18 @@
+2024-07-10 19:07:18,064 - INFO - Base de datos inicializada
+2024-07-10 19:07:18,079 - INFO - Aplicación Dash creada
+2024-07-10 19:10:31,643 - INFO - Base de datos inicializada
+2024-07-10 19:10:31,658 - INFO - Aplicación Dash creada
+2024-07-10 19:13:01,282 - INFO - Base de datos inicializada
+2024-07-10 19:13:01,296 - INFO - Aplicación Dash creada
+2024-07-10 19:14:08,725 - INFO - Base de datos inicializada
+2024-07-10 19:14:08,741 - INFO - Aplicación Dash creada
+2024-07-10 19:35:30,888 - INFO - Base de datos inicializada
+2024-07-10 19:35:30,904 - INFO - Aplicación Dash creada
+2024-07-10 19:35:57,578 - INFO - Base de datos inicializada
+2024-07-10 19:35:57,578 - INFO - Aplicación Dash creada
+2024-07-10 19:36:16,115 - INFO - Base de datos inicializada
+2024-07-10 19:36:16,129 - INFO - Aplicación Dash creada
+2024-07-10 19:43:42,738 - INFO - Base de datos inicializada
+2024-07-10 19:43:42,757 - INFO - Aplicación Dash creada
+2024-07-10 19:44:37,579 - INFO - Base de datos inicializada
+2024-07-10 19:44:37,593 - INFO - Aplicación Dash creada

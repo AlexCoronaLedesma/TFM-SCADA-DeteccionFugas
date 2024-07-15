@@ -1,0 +1,9 @@
+2024-07-10 19:07:14,810 - INFO - Aplicación Dash creada
+2024-07-10 19:10:30,833 - INFO - Aplicación Dash creada
+2024-07-10 19:13:00,417 - INFO - Aplicación Dash creada
+2024-07-10 19:14:07,937 - INFO - Aplicación Dash creada
+2024-07-10 19:35:28,014 - INFO - Aplicación Dash creada
+2024-07-10 19:35:56,806 - INFO - Aplicación Dash creada
+2024-07-10 19:36:15,302 - INFO - Aplicación Dash creada
+2024-07-10 19:43:41,778 - INFO - Aplicación Dash creada
+2024-07-10 19:44:36,879 - INFO - Aplicación Dash creada

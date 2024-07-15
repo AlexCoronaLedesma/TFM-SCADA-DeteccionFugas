@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1">
+ <defs>
+  <style>text {
+        fill: #c6c6c6;
+        stroke: #000;
+        stroke-opacity: .8;
+        stroke-width: .5;
+        font-family: Arial, sans-serif;
+        font-size: 22px;
+      }</style>
+  <filter color-interpolation-filters="sRGB" id="knob-shadow-filter">
+   <feGaussianBlur stdDeviation="1"/>
+  </filter>
+ </defs>
+ <metadata>image/svg+xmlOpenclipartSwitch knobs (optimized)2013-09-20T22:51:01Switch knobs likely to be used for SCADA/HMI applications (optimized for use on a web page). See the source for info about how to change the direction of the arrow.https://openclipart.org/detail/183615/switch-knobs-optimized-by-morkaitehred-183615morkaitehredHMISCADAactivatecontroldeactivateknoboffonphotorealisticstartstopswitch</metadata>
+ <g class="layer">
+  <title>Layer 1</title>
+  <circle cx="100" cy="100" fill="#1c1c1c" id="svg_5" r="70" stroke="#000" stroke-width="3"/>
+  <path d="m51,150a70.02,70.02 0 1 1 99,-99" fill="none" id="svg_6" stroke="#fff" stroke-linecap="round" stroke-opacity="0.1" stroke-width="1.44"/>
+  <path d="m51,148a65,65 0 1 0 97,-97" fill="none" id="svg_7" stroke="#b2b2b2" stroke-linecap="round" stroke-opacity="0.07" stroke-width="1.44"/>
+  <g id="svg_8" transform="translate(89 70) rotate(90 -20 0) scale(1 -1)">
+   <path d="m-15,81l6,7l30,7l23,-7l0,-102.5l-8,-7l-51,102.5z" fill="#050505" fill-opacity="0.75" filter="url(#knob-shadow-filter)" id="knob-shadow"/>
+   <path d="m9,-26l0,111s-11,0 -22,-5.5c9,-48 9,-48 0,-99c0,0 11,-5.5 22,-6.5z" fill="#5A5A5A" id="knob-left" stroke="#5A5A5A" stroke-width="4"/>
+   <path d="m13,-26l0,111s11,0 22,-5.5c-9,-48 -9,-48 0,-99c0,0 -11,-5.5 -22,-6.5z" fill="#262626" id="knob-right" stroke="#262626" stroke-width="4"/>
+   <path d="m11,-26l0,111" id="arrow-shaft" stroke="#414141" stroke-linecap="round" stroke-width="4"/>
+   <path d="m0,0c11,-38 11,-38 22,0c-11,-10 -11,-10 -22,0" fill="#fff" fill-opacity="0.65" id="arrow-head"/>
+  </g>
+ </g>
+</svg>

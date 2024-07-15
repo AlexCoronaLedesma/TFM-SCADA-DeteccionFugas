@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+ <defs>
+  <style>text {
+        fill: #c6c6c6;
+        stroke: #000;
+        stroke-opacity: .8;
+        stroke-width: .5;
+        font-family: Arial, sans-serif;
+        font-size: 22px;
+      }</style>
+  <linearGradient id="base">
+   <stop offset="0" stop-color="#dadada"/>
+   <stop offset="1" stop-color="#212121"/>
+  </linearGradient>
+  <radialGradient cx="0.17" cy="0.17" id="outer-border-outer-fill" r="0.65" xlink:href="#base"/>
+  <radialGradient cx="0.78" cy="0.78" id="outer-border-inner-fill" r="0.65" xlink:href="#base"/>
+  <radialGradient cx="0.33" cy="0.33" id="outer-border-fill" r="0.65" xlink:href="#base"/>
+ </defs>
+ <metadata>image/svg+xmlOpenclipartSwitch knobs (optimized)2013-09-20T22:51:01Switch knobs likely to be used for SCADA/HMI applications (optimized for use on a web page). See the source for info about how to change the direction of the arrow.https://openclipart.org/detail/183615/switch-knobs-optimized-by-morkaitehred-183615morkaitehredHMISCADAactivatecontroldeactivateknoboffonphotorealisticstartstopswitch</metadata>
+ <g class="layer">
+  <title>Layer 1</title>
+  <circle cx="100" cy="100" fill="url(#outer-border-outer-fill)" id="svg_1" r="100"/>
+  <circle cx="100" cy="100" fill="url(#outer-border-inner-fill)" id="svg_2" r="96"/>
+  <circle cx="100" cy="100" fill="url(#outer-border-fill)" id="svg_3" r="95"/>
+  <circle cx="100" cy="100" fill="url(#outer-border-outer-fill)" id="svg_4" r="75"/>
+  <path d="m51,148a65,65 0 1 0 97,-97" fill="none" id="svg_7" stroke="#b2b2b2" stroke-linecap="round" stroke-opacity="0.07" stroke-width="1.44"/>
+  <text id="svg_9" style="cursor: move;" transform="matrix(1 0 0 1 0 0)" x="94" y="22.75">2</text>
+  <text id="svg_10" style="cursor: move;" transform="matrix(1 0 0 1 0 0)" x="10" y="107.75">1</text>
+  <text id="svg_11" style="cursor: move;" x="179" y="107.75">3</text>
+ </g>
+</svg>

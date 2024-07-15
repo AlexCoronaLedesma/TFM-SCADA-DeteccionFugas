@@ -1,0 +1,7 @@
+dash
+dash-daq
+plotly
+pandas
+pyserial
+dash-extensions
+paho-mqtt

@@ -1,0 +1,35 @@
+<svg width="200" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Top section -->
+  <rect x="75" y="10" width="50" height="60" fill="lightgray" stroke="black" />
+  <text x="80" y="45" font-family="Verdana" font-size="12" fill="black">Sensores de nivel</text>
+  
+  <!-- Middle section -->
+  <rect x="50" y="80" width="100" height="160" fill="lightgray" stroke="black" />
+  <text x="65" y="160" font-family="Verdana" font-size="12" fill="black">Almacenamiento</text>
+  <rect x="50" y="240" width="100" height="10" fill="brown" />
+  <text x="90" y="255" font-family="Verdana" font-size="12" fill="black">Báscula</text>
+
+  <!-- Bottom section -->
+  <rect x="20" y="260" width="50" height="60" fill="lightgray" stroke="black" />
+  <rect x="75" y="260" width="50" height="60" fill="lightgray" stroke="black" />
+  <rect x="130" y="260" width="50" height="60" fill="lightgray" stroke="black" />
+  
+  <text x="30" y="295" font-family="Verdana" font-size="12" fill="black">Ventas1</text>
+  <text x="85" y="295" font-family="Verdana" font-size="12" fill="black">Ventas2</text>
+  <text x="140" y="295" font-family="Verdana" font-size="12" fill="black">Fugas</text>
+  
+  <rect x="20" y="320" width="50" height="10" fill="brown" />
+  <rect x="75" y="320" width="50" height="10" fill="brown" />
+  <rect x="130" y="320" width="50" height="10" fill="brown" />
+  
+  <text x="40" y="335" font-family="Verdana" font-size="12" fill="black">Báscula</text>
+  <text x="95" y="335" font-family="Verdana" font-size="12" fill="black">Báscula</text>
+  <text x="150" y="335" font-family="Verdana" font-size="12" fill="black">Báscula</text>
+
+  <!-- Structure -->
+  <line x1="10" y1="10" x2="10" y2="370" stroke="blue" stroke-width="5"/>
+  <line x1="190" y1="10" x2="190" y2="370" stroke="blue" stroke-width="5"/>
+  <line x1="10" y1="70" x2="190" y2="70" stroke="orange" stroke-width="5"/>
+  <line x1="10" y1="250" x2="190" y2="250" stroke="orange" stroke-width="5"/>
+  <line x1="10" y1="330" x2="190" y2="330" stroke="orange" stroke-width="5"/>
+</svg>
